@@ -1,0 +1,31 @@
+h4{
+    text-align: center;
+    color: azure;
+    text-transform: uppercase;
+}
+
+#sidebar{
+    margin: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    
+}
+.container {
+    margin: auto;
+    padding-top: 10 px ;
+    box-shadow:  2px 2px 2px 2px rgb(92, 90, 90) ;
+    background: black;
+}
+
+#workExp{
+    margin: 1px;
+    color: rgb(10, 10, 10);
+    border: 2px white;
+    background: rgb(255, 255, 255);
+    padding: 25px;
+}
+
+#desc{
+    text-align: left;
+}
